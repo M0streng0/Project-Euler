@@ -17,6 +17,9 @@ Below is a list of problems I've solved, along with the programming languages us
 1. [Problem 1 - Multiples of 3 and 5](problems/problem1/)
    - Language: Python
 
+2. [Problem 2 - Even Fibonacci Numbers](problems/problem2/)
+   - Language: Python
+
 ## Contributing
 
 Feel free to contribute to this repository by providing your own solutions or improving existing ones. To contribute, follow these steps:
