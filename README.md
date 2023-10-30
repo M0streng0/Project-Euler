@@ -20,6 +20,9 @@ Below is a list of problems I've solved, along with the programming languages us
 2. [Problem 2 - Even Fibonacci Numbers](problems/problem2/)
    - Language: Python
 
+3. [Problem 3 - Largest Prime Factor](problems/problem3/)
+   - Language: Python
+
 ## Contributing
 
 Feel free to contribute to this repository by providing your own solutions or improving existing ones. To contribute, follow these steps:
