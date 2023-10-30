@@ -23,6 +23,9 @@ Below is a list of problems I've solved, along with the programming languages us
 3. [Problem 3 - Largest Prime Factor](problems/problem3/)
    - Language: Python
 
+4. [Problem 4 - Largest Palindrome Product](problems/problem4/)
+   - Language: Python
+
 ## Contributing
 
 Feel free to contribute to this repository by providing your own solutions or improving existing ones. To contribute, follow these steps:
