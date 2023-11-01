@@ -35,6 +35,9 @@ Below is a list of problems I've solved, along with the programming languages us
 7. [Problem 7 - 10001st Prime](problems/problem7/)
    - Language: Python
 
+8. [Problem 8 - Largest Product in a Series](problems/problem8/)
+   - Language: Python
+
 ## Contributing
 
 Feel free to contribute to this repository by providing your own solutions or improving existing ones. To contribute, follow these steps:
