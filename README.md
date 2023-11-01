@@ -29,6 +29,9 @@ Below is a list of problems I've solved, along with the programming languages us
 5. [Problem 5 - Smallest Multiple](problems/problem5/)
    - Language: Python
 
+6. [Problem 6 - Sum Square Difference](problems/problem6/)
+   - Language: Python
+
 ## Contributing
 
 Feel free to contribute to this repository by providing your own solutions or improving existing ones. To contribute, follow these steps:
