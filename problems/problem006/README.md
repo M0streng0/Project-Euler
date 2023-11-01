@@ -1,4 +1,4 @@
-# Problem 6 - Sum Square Difference
+# Problem 006 - Sum Square Difference
 
 ## Description
 
@@ -19,5 +19,5 @@ Find the difference between the sum of the squares of the first one hundred natu
 This python3 script will solve and output the correct value. 
 
 ```bash
-python3 problem6.py
+python3 problem006.py
 ```

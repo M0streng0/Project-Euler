@@ -1,4 +1,4 @@
-# Problem 2 - Even Fibonacci Numbers
+# Problem 002 - Even Fibonacci Numbers
 
 ## Description
 
@@ -13,5 +13,5 @@ By considering the terms in the Fibonacci sequence whose values do not exceed fo
 This python3 script will solve and output the correct value.
 
 ```bash
-python3 problem2.py
+python3 problem002.py
 ```

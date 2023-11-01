@@ -1,4 +1,4 @@
-# Problem 3 - Largest Prime Factor
+# Problem 003 - Largest Prime Factor
 
 ## Description
 
@@ -11,5 +11,5 @@ What is the largest prime factor of the number 600851475143?
 This python3 script will solve and output the correct value.
 
 ```bash
-python3 problem3.py
+python3 problem003.py
 ```

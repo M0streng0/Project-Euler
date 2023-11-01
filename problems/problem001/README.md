@@ -1,4 +1,4 @@
-# Problem 1 - Multiples of 3 and 5
+# Problem 001 - Multiples of 3 and 5
 
 ## Description
 
@@ -11,5 +11,5 @@ Find the sum of all the multiples of 3 or 5 below 1000.
 This python3 script will solve and output the correct value.
 
 ```bash
-python3 problem1.py
+python3 problem001.py
 ```

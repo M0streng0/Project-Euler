@@ -1,4 +1,4 @@
-# Problem 4 - Largest Palindrome Product
+# Problem 004 - Largest Palindrome Product
 
 ## Description
 
@@ -11,5 +11,5 @@ Find the largest palindrome made from the product of two 3-digit numbers.
 This python3 script will solve and output the correct value.
 
 ```bash
-python3 problem4.py
+python3 problem004.py
 ```

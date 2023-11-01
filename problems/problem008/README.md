@@ -1,4 +1,4 @@
-# Problem 8 - Largest Product in a Series
+# Problem 008 - Largest Product in a Series
 
 ## Description
 
@@ -32,5 +32,5 @@ Find the thirteen adjacent digits in the 1000-digit number that have the greates
 This python3 script will solve and output the correct value.
 
 ```bash
-python3 problem8.py
+python3 problem008.py
 ```

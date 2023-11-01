@@ -14,34 +14,34 @@ You can find a list of Project Euler problems on the official [Project Euler web
 
 Below is a list of problems I've solved, along with the programming languages used for each solution. Click on a problem to view its solution:
 
-1. [Problem 1 - Multiples of 3 and 5](problems/problem1/)
+1. [Problem 001 - Multiples of 3 and 5](problems/problem001/)
    - Language: Python
 
-2. [Problem 2 - Even Fibonacci Numbers](problems/problem2/)
+2. [Problem 002 - Even Fibonacci Numbers](problems/problem002/)
    - Language: Python
 
-3. [Problem 3 - Largest Prime Factor](problems/problem3/)
+3. [Problem 003 - Largest Prime Factor](problems/problem003/)
    - Language: Python
 
-4. [Problem 4 - Largest Palindrome Product](problems/problem4/)
+4. [Problem 004 - Largest Palindrome Product](problems/problem004/)
    - Language: Python
 
-5. [Problem 5 - Smallest Multiple](problems/problem5/)
+5. [Problem 005 - Smallest Multiple](problems/problem005/)
    - Language: Python
 
-6. [Problem 6 - Sum Square Difference](problems/problem6/)
+6. [Problem 006 - Sum Square Difference](problems/problem006/)
    - Language: Python
 
-7. [Problem 7 - 10001st Prime](problems/problem7/)
+7. [Problem 007 - 10001st Prime](problems/problem007/)
    - Language: Python
 
-8. [Problem 8 - Largest Product in a Series](problems/problem8/)
+8. [Problem 008 - Largest Product in a Series](problems/problem008/)
    - Language: Python
 
-9. [Problem 9 - Special Pythagorean Triplet](problems/problem9/)
+9. [Problem 009 - Special Pythagorean Triplet](problems/problem009/)
    - Language: Python
 
-9. [Problem 10 - Summation of Primes](problems/problem10/)
+9. [Problem 010 - Summation of Primes](problems/problem010/)
    - Language: Python
 
 ## Contributing

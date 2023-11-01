@@ -1,4 +1,4 @@
-# Problem 5 - Smallest Multiple
+# Problem 005 - Smallest Multiple
 
 ## Description
 
@@ -11,5 +11,5 @@ What is the smallest positive number that is evenly divisible by all of the numb
 This python3 script will solve and output the correct value. I've done the brute-force way, so it might take a few seconds to discover the correct value.
 
 ```bash
-python3 problem5.py
+python3 problem005.py
 ```

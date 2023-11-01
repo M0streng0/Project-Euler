@@ -1,4 +1,4 @@
-# Problem 9 - Special Pythagorean Triplet
+# Problem 009 - Special Pythagorean Triplet
 
 ## Description
 
@@ -14,5 +14,5 @@ Find the product abc.
 This python3 script will solve and output the correct value.
 
 ```bash
-python3 problem9.py
+python3 problem009.py
 ```

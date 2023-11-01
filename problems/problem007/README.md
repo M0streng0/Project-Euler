@@ -1,4 +1,4 @@
-# Problem 7 - 10001st Prime
+# Problem 007 - 10001st Prime
 
 ## Description
 
@@ -11,5 +11,5 @@ What is the 10001st prime number?
 This python3 script will solve and output the correct value. My approach might take some time, due to being a bit of brute-force!
 
 ```bash
-python3 problem7.py
+python3 problem007.py
 ```

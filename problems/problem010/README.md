@@ -1,4 +1,4 @@
-# Problem 10 - Summation of Primes
+# Problem 010 - Summation of Primes
 
 ## Description
 
@@ -11,5 +11,5 @@ Find the sum of all the primes below two million.
 This python3 script will solve and output the correct value.
 
 ```bash
-python3 problem10.py
+python3 problem010.py
 ```
