@@ -27,6 +27,7 @@ Below is a list of problems I've solved, along with the programming languages us
 | 9 | [Problem 009 - Special Pythagorean Triplet](problems/problem009/) | Python |
 | 10 | [Problem 010 - Summation of Primes](problems/problem010/) | Python |
 | 11 | [Problem 011 - Largest Product in a Grid](problems/problem011/) | Python |
+| 12 | [Problem 012 - Highly Divisible Triangular Number](problems/problem012/) | Python |
 
 ## Contributing
 
