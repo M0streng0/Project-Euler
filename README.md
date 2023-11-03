@@ -14,35 +14,19 @@ You can find a list of Project Euler problems on the official [Project Euler web
 
 Below is a list of problems I've solved, along with the programming languages used for each solution. Click on a problem to view its solution:
 
-1. [Problem 001 - Multiples of 3 and 5](problems/problem001/)
-   - Language: Python
-
-2. [Problem 002 - Even Fibonacci Numbers](problems/problem002/)
-   - Language: Python
-
-3. [Problem 003 - Largest Prime Factor](problems/problem003/)
-   - Language: Python
-
-4. [Problem 004 - Largest Palindrome Product](problems/problem004/)
-   - Language: Python
-
-5. [Problem 005 - Smallest Multiple](problems/problem005/)
-   - Language: Python
-
-6. [Problem 006 - Sum Square Difference](problems/problem006/)
-   - Language: Python
-
-7. [Problem 007 - 10001st Prime](problems/problem007/)
-   - Language: Python
-
-8. [Problem 008 - Largest Product in a Series](problems/problem008/)
-   - Language: Python
-
-9. [Problem 009 - Special Pythagorean Triplet](problems/problem009/)
-   - Language: Python
-
-9. [Problem 010 - Summation of Primes](problems/problem010/)
-   - Language: Python
+| # | Problem Description | Language |
+|---|---------------------|----------|
+| 1 | [Problem 001 - Multiples of 3 and 5](problems/problem001/) | Python |
+| 2 | [Problem 002 - Even Fibonacci Numbers](problems/problem002/) | Python |
+| 3 | [Problem 003 - Largest Prime Factor](problems/problem003/) | Python |
+| 4 | [Problem 004 - Largest Palindrome Product](problems/problem004/) | Python |
+| 5 | [Problem 005 - Smallest Multiple](problems/problem005/) | Python |
+| 6 | [Problem 006 - Sum Square Difference](problems/problem006/) | Python |
+| 7 | [Problem 007 - 10001st Prime](problems/problem007/) | Python |
+| 8 | [Problem 008 - Largest Product in a Series](problems/problem008/) | Python |
+| 9 | [Problem 009 - Special Pythagorean Triplet](problems/problem009/) | Python |
+| 10 | [Problem 010 - Summation of Primes](problems/problem010/) | Python |
+| 11 | [Problem 011 - Largest Product in a Grid](problems/problem011/) | Python |
 
 ## Contributing
 
