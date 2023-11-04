@@ -33,6 +33,7 @@ Below is a list of problems I've solved, along with the programming languages us
 | 15 | [Problem 015 - Lattice Paths](problems/problem015/) | Python |
 | 16 | [Problem 016 - Power Digit Sum](problems/problem016/) | Python |
 | 17 | [Problem 017 - Number Letter Counts](problems/problem017/) | Python |
+| 18 | [Problem 018 - Maximum Path Sum I](problems/problem018/) | Python |
 
 ## Contributing
 
