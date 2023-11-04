@@ -11,5 +11,5 @@ What is the sum of the digits of the number 2¹⁰⁰⁰?
 This python3 script will solve and output the correct value.
 
 ```bash
-python3 problem013.py
+python3 problem016.py
 ```

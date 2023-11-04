@@ -13,5 +13,5 @@ How many such routes are there through a 20 x 20 grid?
 This python3 script will solve and output the correct value.
 
 ```bash
-python3 problem013.py
+python3 problem015.py
 ```
