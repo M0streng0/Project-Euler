@@ -29,6 +29,7 @@ Below is a list of problems I've solved, along with the programming languages us
 | 11 | [Problem 011 - Largest Product in a Grid](problems/problem011/) | Python |
 | 12 | [Problem 012 - Highly Divisible Triangular Number](problems/problem012/) | Python |
 | 13 | [Problem 013 - Large Sum](problems/problem013/) | Python |
+| 14 | [Problem 014 - Longest Collatz Sequence](problems/problem014/) | Python |
 
 ## Contributing
 
