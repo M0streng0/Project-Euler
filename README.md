@@ -31,6 +31,7 @@ Below is a list of problems I've solved, along with the programming languages us
 | 13 | [Problem 013 - Large Sum](problems/problem013/) | Python |
 | 14 | [Problem 014 - Longest Collatz Sequence](problems/problem014/) | Python |
 | 15 | [Problem 015 - Lattice Paths](problems/problem015/) | Python |
+| 16 | [Problem 016 - Power Digit Sum](problems/problem016/) | Python |
 
 ## Contributing
 
