@@ -34,7 +34,8 @@ Below is a list of problems I've solved, along with the programming languages us
 | 16 | [Problem 016 - Power Digit Sum](problems/problem016/) | Python |
 | 17 | [Problem 017 - Number Letter Counts](problems/problem017/) | Python |
 | 18 | [Problem 018 - Maximum Path Sum I](problems/problem018/) | Python |
-| 19 | [Problem 019 - Counting Sundays](problems/problem018/) | Python |
+| 19 | [Problem 019 - Counting Sundays](problems/problem019/) | Python |
+| 20 | [Problem 020 - Factorial Digit Sum](problems/problem020/) | Python |
 
 ## Contributing
 
