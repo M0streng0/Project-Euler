@@ -37,6 +37,7 @@ Below is a list of problems I've solved, along with the programming languages us
 | 19 | [Problem 019 - Counting Sundays](problems/problem019/) | Python |
 | 20 | [Problem 020 - Factorial Digit Sum](problems/problem020/) | Python |
 | 21 | [Problem 021 - Amicable Numbers](problems/problem021/) | Python |
+| 22 | [Problem 022 - Names Scores](problems/problem021/) | Python |
 
 ## Contributing
 
