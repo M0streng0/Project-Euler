@@ -10,6 +10,19 @@ Project Euler is a platform that provides a wide range of mathematical and compu
 
 You can find a list of Project Euler problems on the official [Project Euler website](https://projecteuler.net/archives). Each problem is associated with a unique number and a brief description. To view the solutions, click on the corresponding problem number in the "Solutions" section.
 
+## Attention!
+
+_It appears that you have answered your own question. There is nothing quite like that "Aha!" moment when you finally beat a problem which you have been working on for some time. It is often through the best of intentions in wishing to share our insights so that others can enjoy that moment too. Sadly, that will rarely be the case for your readers. Real learning is an active process and seeing how it is done is a long way from experiencing that epiphany of discovery. Please do not deny others what you have so richly valued yourself._
+
+_However, the rule about sharing solutions outside of Project Euler does not apply to the first one-hundred problems, as long as any discussion clearly aims to instruct methods, not just provide answers, and does not directly threaten to undermine the enjoyment of solving later problems. Problems 1 to 100 provide a wealth of helpful introductory teaching material and if you are able to respect our requirements, then we give permission for those problems and their solutions to be discussed elsewhere._
+
+From Project Euler.
+
+
+So, for your own learning, try to solve the problem yourself... Before you look at the code I used to solve it!
+
+What I find interesting is that after you have successfully solved it, you can see other approaches that others have taken, such as mine. That's a form of learning... Good luck!
+
 ## Solutions
 
 Below is a list of problems I've solved, along with the programming languages used for each solution. Click on a problem to view its solution:
@@ -37,7 +50,8 @@ Below is a list of problems I've solved, along with the programming languages us
 | 19 | [Problem 019 - Counting Sundays](problems/problem019/) | Python |
 | 20 | [Problem 020 - Factorial Digit Sum](problems/problem020/) | Python |
 | 21 | [Problem 021 - Amicable Numbers](problems/problem021/) | Python |
-| 22 | [Problem 022 - Names Scores](problems/problem021/) | Python |
+| 22 | [Problem 022 - Names Scores](problems/problem022/) | Python |
+| 23 | [Problem 022 - Non-Abundant Sums](problems/problem023/) | Python |
 
 ## Contributing
 
