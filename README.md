@@ -52,7 +52,8 @@ Below is a list of problems I've solved, along with the programming languages us
 | 21 | [Problem 021 - Amicable Numbers](problems/problem021/) | Python |
 | 22 | [Problem 022 - Names Scores](problems/problem022/) | Python |
 | 23 | [Problem 023 - Non-Abundant Sums](problems/problem023/) | Python |
-| 23 | [Problem 024 - Lexicographic Permutations](problems/problem024/) | Python |
+| 24 | [Problem 024 - Lexicographic Permutations](problems/problem024/) | Python |
+| 25 | [Problem 025 - 1000-digit Fibonacci Number](problems/problem025/) | Python |
 
 ## Contributing
 
