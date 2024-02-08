@@ -55,6 +55,7 @@ Below is a list of problems I've solved, along with the programming languages us
 | 24 | [Problem 024 - Lexicographic Permutations](problems/problem024/) | Python |
 | 25 | [Problem 025 - 1000-digit Fibonacci Number](problems/problem025/) | Python |
 | 26 | [Problem 026 - Reciprocal Cycles](problems/problem026/) | Python |
+| 27 | [Problem 027 - Quadratic Primes](problems/problem027/) | Python |
 
 ## Contributing
 
